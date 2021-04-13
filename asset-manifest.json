@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lotr-trivia/static/css/main.8d153d74.chunk.css",
-    "main.js": "/lotr-trivia/static/js/main.2f6e9b09.chunk.js",
-    "main.js.map": "/lotr-trivia/static/js/main.2f6e9b09.chunk.js.map",
+    "main.js": "/lotr-trivia/static/js/main.701ce74f.chunk.js",
+    "main.js.map": "/lotr-trivia/static/js/main.701ce74f.chunk.js.map",
     "runtime-main.js": "/lotr-trivia/static/js/runtime-main.4b8909d5.js",
     "runtime-main.js.map": "/lotr-trivia/static/js/runtime-main.4b8909d5.js.map",
     "static/js/2.d540d0ae.chunk.js": "/lotr-trivia/static/js/2.d540d0ae.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4b8909d5.js",
     "static/js/2.d540d0ae.chunk.js",
     "static/css/main.8d153d74.chunk.css",
-    "static/js/main.2f6e9b09.chunk.js"
+    "static/js/main.701ce74f.chunk.js"
   ]
 }
