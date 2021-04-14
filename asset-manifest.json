@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/lotr-trivia/static/css/main.8d153d74.chunk.css",
-    "main.js": "/lotr-trivia/static/js/main.701ce74f.chunk.js",
-    "main.js.map": "/lotr-trivia/static/js/main.701ce74f.chunk.js.map",
+    "main.css": "/lotr-trivia/static/css/main.db566115.chunk.css",
+    "main.js": "/lotr-trivia/static/js/main.04172c14.chunk.js",
+    "main.js.map": "/lotr-trivia/static/js/main.04172c14.chunk.js.map",
     "runtime-main.js": "/lotr-trivia/static/js/runtime-main.4b8909d5.js",
     "runtime-main.js.map": "/lotr-trivia/static/js/runtime-main.4b8909d5.js.map",
     "static/js/2.d540d0ae.chunk.js": "/lotr-trivia/static/js/2.d540d0ae.chunk.js",
@@ -10,13 +10,14 @@
     "static/js/3.915eca7b.chunk.js": "/lotr-trivia/static/js/3.915eca7b.chunk.js",
     "static/js/3.915eca7b.chunk.js.map": "/lotr-trivia/static/js/3.915eca7b.chunk.js.map",
     "index.html": "/lotr-trivia/index.html",
-    "static/css/main.8d153d74.chunk.css.map": "/lotr-trivia/static/css/main.8d153d74.chunk.css.map",
-    "static/js/2.d540d0ae.chunk.js.LICENSE.txt": "/lotr-trivia/static/js/2.d540d0ae.chunk.js.LICENSE.txt"
+    "static/css/main.db566115.chunk.css.map": "/lotr-trivia/static/css/main.db566115.chunk.css.map",
+    "static/js/2.d540d0ae.chunk.js.LICENSE.txt": "/lotr-trivia/static/js/2.d540d0ae.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/lotr-trivia/static/media/rivendell.b4b92a67.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4b8909d5.js",
     "static/js/2.d540d0ae.chunk.js",
-    "static/css/main.8d153d74.chunk.css",
-    "static/js/main.701ce74f.chunk.js"
+    "static/css/main.db566115.chunk.css",
+    "static/js/main.04172c14.chunk.js"
   ]
 }
