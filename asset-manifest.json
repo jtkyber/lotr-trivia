@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lotr-trivia/static/css/main.b4b7e0a1.chunk.css",
+    "main.css": "/lotr-trivia/static/css/main.2f191e0a.chunk.css",
     "main.js": "/lotr-trivia/static/js/main.3b9d6c84.chunk.js",
     "main.js.map": "/lotr-trivia/static/js/main.3b9d6c84.chunk.js.map",
     "runtime-main.js": "/lotr-trivia/static/js/runtime-main.4b8909d5.js",
@@ -10,14 +10,14 @@
     "static/js/3.915eca7b.chunk.js": "/lotr-trivia/static/js/3.915eca7b.chunk.js",
     "static/js/3.915eca7b.chunk.js.map": "/lotr-trivia/static/js/3.915eca7b.chunk.js.map",
     "index.html": "/lotr-trivia/index.html",
-    "static/css/main.b4b7e0a1.chunk.css.map": "/lotr-trivia/static/css/main.b4b7e0a1.chunk.css.map",
+    "static/css/main.2f191e0a.chunk.css.map": "/lotr-trivia/static/css/main.2f191e0a.chunk.css.map",
     "static/js/2.d540d0ae.chunk.js.LICENSE.txt": "/lotr-trivia/static/js/2.d540d0ae.chunk.js.LICENSE.txt",
     "static/media/App.css": "/lotr-trivia/static/media/rivendell.b4b92a67.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4b8909d5.js",
     "static/js/2.d540d0ae.chunk.js",
-    "static/css/main.b4b7e0a1.chunk.css",
+    "static/css/main.2f191e0a.chunk.css",
     "static/js/main.3b9d6c84.chunk.js"
   ]
 }
